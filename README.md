@@ -21,3 +21,5 @@ INSTRUCTIONS:
 1. Clone this repository
 2. Navigate to this folder in terminal and type "pip install -r requirements.txt"
 3. then after the setup run the command "python Plagarism checker.py"
+
+NOTE: Install Pytorch to run with gpu and cuda according to your version requirements.
